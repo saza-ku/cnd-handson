@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   labels:
     app: handson
-  name: handson
+  name: 2-handson
 spec:
   replicas: 3
   revisionHistoryLimit: 1
